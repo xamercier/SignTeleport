@@ -1,0 +1,5 @@
+main: ca.xamercier.signTeleport.SignTeleport
+name: SignTeleport
+version: 1.0
+authors: [xamercier, com002]
+depend: [LectusAPI]
